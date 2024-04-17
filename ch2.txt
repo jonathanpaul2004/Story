@@ -1,0 +1,1 @@
+The `git status` command shows that you're currently on the `master` branch and that there are no changes to be committed; your working directory is clean. This means that you've already committed all your changes, and there are no additional modifications that need to be staged or committed at this moment.
