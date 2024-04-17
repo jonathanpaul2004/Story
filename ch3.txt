@@ -1,0 +1,10 @@
+1. John Doe - IT Professional, with a Bachelor of Technology in Information Technology from Sri Eshwar College of Engineering, maintaining a CGPA of 8.54.
+2. Interned at Channel B Tech and One Cloud Hub, gaining expertise in MERN stack technology and Amazon Web Services (AWS).
+3. Led projects like NETERN, a public Q&A platform, and Automated Generatoropedia, a dynamic question paper generator, showcasing proficiency in full-stack development.
+4. Hosted static web pages efficiently on AWS with the Cloud Calc project.
+5. Holds certifications in JAVA Programming, MongoDB, and HTML/CSS, emphasizing continuous learning.
+6. Skilled in languages like C and Java, proficient in databases such as MySQL and MongoDB.
+7. Expertise in web development tools including React JS and Node JS, with knowledge in core concepts like Object-Oriented Programming and Data Structures.
+8. Achieved significant milestones on platforms like LeetCode and HackerRank, solving hundreds of problems and earning accolades in Java and C programming.
+9. Eager to bring expertise and enthusiasm to collaborative teams, driving innovation.
+10. Contact information provided for further inquiries and collaboration opportunities.
